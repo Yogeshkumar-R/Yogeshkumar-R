@@ -9,7 +9,7 @@ I am a passionate Generative AI Engineer with expertise in building intelligent 
 - 🔭 I'm currently working on advancing Generative AI applications and RAG frameworks
 - 🌱 I'm currently learning latest developments in Large Language Models and Multi-Agent Systems
 - 💬 Ask me about Generative AI, Machine Learning, and Deep Learning
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: yogeshkumarr.work@gmail.com
 
 ---
 
