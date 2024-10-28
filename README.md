@@ -19,7 +19,7 @@ I am a passionate Generative AI Engineer with expertise in building intelligent 
 - **Testcase Generation using Gemini**: Automated test case creation system leveraging Google's Gemini model
 - **Impactful Testcase Selection**: AI-driven system for intelligent test case prioritization
 - **Groundtruth Validation Framework**: Robust system for validating AI model training data
-- **REAIA**: Advanced AI application for [brief description]
+- **REAIA**: Advanced AI application for Scholar-Researchers
 
 #### 🔍 Machine Learning Projects
 - **Automatic Loan Approval Prediction**: ML model for streamlining loan processing
