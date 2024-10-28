@@ -37,7 +37,7 @@ I am a passionate Generative AI Engineer with expertise in building intelligent 
 ### 💻 Tech Stack
 
 <details>
-<!-- <summary>Click to expand</summary> -->
+<summary>Click to expand</summary>
 
 #### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
