@@ -1,95 +1,97 @@
-<h1 align="center">Hey Buddy👋 I'm Yogeshkumar R</h1>
-<h3 align="center">Generative AI Engineer | Machine Learning Specialist</h3>
+<h1 align="center">Hi, I'm Yogeshkumar R 👋</h1>                                                                                                                 <h3 align="center">AI Engineer · GenAI & Agentic AI · Virtusa</h3>                                                                                             
+                                                                                                                                                                   <p align="center">                                                                                                                                                 <a href="https://www.linkedin.com/in/yogeshkumar-r"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>      <a href="mailto:yogeshkumarr.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>                   <a href="https://yogeshkumar-r.github.io"><img src="https://img.shields.io/badge/-Portfolio-ef4444?style=flat&logo=googlechrome&logoColor=white"/></a>           <img src="https://komarev.com/ghpvc/?username=Yogeshkumar-R&color=ef4444&style=flat" alt="Profile views"/>                                                   
+  </p>
 
----
+  ---
 
-### 🚀 About Me
-I am a passionate Generative AI Engineer with expertise in building intelligent systems and solutions. I specialize in developing RAG (Retrieval-Augmented Generation) & Agent frameworks with GenAI capabilities, combining cutting-edge AI technologies with practical applications.
+  ### 🧠 About Me
 
-- 🔭 I'm currently working on advancing Generative AI applications and RAG frameworks
-- 🌱 I'm currently learning latest developments in Large Language Models and Multi-Agent Systems
-- 💬 Ask me about Generative AI, Machine Learning, and Deep Learning
+  AI Engineer at **Virtusa** with 2.5+ years building production-grade GenAI systems for enterprise clients across insurance, healthcare, and research. Focused  
+  on auditable, real-world AI — not just demos.
 
----
+  - 🔭 Currently building **GraphRAG** and **Agentic AI** systems at Virtusa
+  - 🤖 Specialise in **RAG pipelines**, **multi-agent orchestration**, and **LLM fine-tuning**
+  - 🏆 **Databricks Worldcup 2024** · **AI for Bharat Hackathon 2026**
+  - 📄 IEEE published — hybrid CNN + Capsule Network for ophthalmic disease detection
+  - 💬 Ask me about **GenAI architecture**, **GraphRAG**, **LangGraph**, or **Agentic AI**
 
-### 🛠️ Projects
+  ---
 
-#### 🤖 Generative AI Projects
-- **Testcase Generation using Gemini**: Automated test case creation system leveraging Google's Gemini model
-- **Impactful Testcase Selection**: AI-driven system for intelligent test case prioritization
-- **Groundtruth Validation Framework**: Robust system for validating AI model training data
-- **REAIA**: Advanced AI application for Scholar-Researchers
+  ### 🛠️ Tech Stack
 
-#### 🔍 Machine Learning Projects
-- **Automatic Loan Approval Prediction**: ML model for streamlining loan processing
-- **PySpark Implementations**: 
-  - Linear & Logistic Regression
-  - K-Means Clustering
-  - Random Forest Classifier
-- **Car Mileage Prediction**: Regression model for vehicle efficiency analysis
+  #### GenAI & LLM Frameworks
+  ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=chainlink&logoColor=white)
+  ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat&logo=graphql&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+  ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-#### 🧠 Deep Learning Projects
-- **Medical Image Analysis**: Detection of Cataract and Glaucoma using hybrid deep learning
-- **Hand Sign Recognition**: Real-time gesture detection system using OpenCV
+  #### ML / Deep Learning
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
----
+  #### Cloud & MLOps
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+  ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 💻 Tech Stack
+  #### Databases & Vector Stores
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  `Pinecone` · `Faiss` · `Chroma` · `OpenSearch`
 
-<details>
-<summary>Click to expand</summary>
+  #### Languages
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+  ---
 
-#### Backend Development
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)
+  ### 🚀 Projects
 
-#### Database
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j)
+  #### Enterprise AI (Virtusa)
+  | Project | Description | Stack |
+  |---|---|---|
+  | GraphRAG Testcase Generator | Graph-enhanced RAG improving testcase coverage by 40–50% | Neo4j, LangChain, LLMs |
+  | RAG-Based Testcase Generator | WIQL extraction + RAG testcase generation with version tracking | MongoDB, LangChain |
+  | Impactful Testcase Selection | Vector-semantic ranking engine reducing QA effort by 40% | Vector Search, NLP |
+  | Voice Content Assessment | Tone/pitch-based fraud detection pipeline | Gemini, Audio ML |
+  | Video Content Assessment | Misinformation detection via CV + NLP on AWS | CV, NLP, AWS |
+  | Ground Truth Validation | Cosine similarity + cluster-based duplicate detection | NLP, Clustering |
 
-#### Vector Databases
-- Pinecone
-- Faiss
+  #### Personal & Hackathon
+  | Project | Description | Event |
+  |---|---|---|
+  | [Scholar Doc Researcher](https://github.com/Yogeshkumar-R) | Research-enabled AI assistant for academic document synthesis | Databricks Worldcup 2024 |      
+  | [Retail Insights Assistant](https://github.com/Yogeshkumar-R/retail-agentic-assistant) | Multi-agent chatbot for retail sales analysis using natural language
+   | — |
+  | [QA Agentic GraphRAG](https://github.com/Yogeshkumar-R/qa-agentic-graphrag-tcgen) | Agentic GraphRAG pipeline for QA testcase generation | — |
 
-#### AI/ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
-- LangChain
-- Ragas
-- LlamaIndex
+  #### Research
+  | Project | Description | |
+  |---|---|---|
+  | Cataract & Glaucoma Detection | Hybrid CNN + Capsule Network for ophthalmic disease detection | 📄 IEEE Published |
 
-</details>
+  ---
 
----
+  ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yogeshkumar-R&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshkumar-R&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yogeshkumar-R&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeshkumar-R&layout=compact&theme=radical&hide_border=true" alt="Top Languages"    
+  width="40%"/>
+  </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeshkumar-R&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/Yogeshkumar-R"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:yogeshkumarr.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Yogeshkumar-R"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yogeshkumar-R&color=blueviolet" alt="Profile views"/>
-</p>
+  ---
+  What changed from the old version:
+  - Title updated to reflect current role at Virtusa
+  - About section has real stats, hackathon wins, IEEE mention
+  - Projects now in a clean table format with real descriptions and impact metrics
+  - Tech stack cleaned up — removed Django/React/Bootstrap (not your focus), added LangGraph, LangChain, Gemini, Neo4j, cloud stack
+  - Your two public repos (qa-agentic-graphrag-tcgen, retail-agentic-assistant) are directly linked
+  - Portfolio site linked in the badge row at the top
